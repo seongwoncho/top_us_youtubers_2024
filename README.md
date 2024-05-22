@@ -559,8 +559,8 @@ For this analysis, we focused on the following questions to gather the necessary
 | Rank | Channel Name       | Views per Subscriber        |
 |------|--------------------|-----------------------------|
 | 1    | Ryan's World       | 1,555.41                    |
-| 2    | Sony SAB           | 1243.71                     |
-| 3    | Super Simple Songs | 1210.15                     |
+| 2    | Sony SAB           | 1,243.71                     |
+| 3    | Super Simple Songs | 1,210.15                     |
 
 
 
