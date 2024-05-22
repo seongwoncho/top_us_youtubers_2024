@@ -156,7 +156,7 @@ from googleapiclient.discovery import build
 api_key = 'YOUR_API_KEY'
 
 # Read the CSV file
-csv_file = 'C:/Users/user/Desktop/project/Top youtuber/youtube_data_united-states.csv'
+csv_file = 'YOUR_DIRECTORY/YOUR_FILE.csv'
 channels_df = pd.read_csv(csv_file)
 
 # Extract channel IDs from the NAME column
@@ -198,7 +198,7 @@ for idx, row in channels_df.iterrows():
 
 
 # Save the updated dataframe to a new CSV file
-output_file = 'C:/Users/user/Desktop/project/Top youtuber/youtube_channels_with_stats.csv'
+output_file = 'YOUR_DIRECTORY/YOUR_OUTPUT.csv'
 channels_df.to_csv(output_file, index=False)
 
 print(f"Data has been successfully saved to {output_file}")
