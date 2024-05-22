@@ -513,7 +513,7 @@ For this analysis, we focused on the following questions to gather the necessary
 
 | Rank | Channel Name         | Subscribers (M) |
 |------|----------------------|-----------------|
-| 1    | T-Series             | 265.00          |
+| 1    | T-Series             | 265.60          |
 | 2    | MrBeast              | 258.00          |
 | 3    | Cocomelon            | 175.00          |
 | 4    | SET India            | 172.00          |
@@ -524,6 +524,7 @@ For this analysis, we focused on the following questions to gather the necessary
 | 9    | Zee Music Company    | 107.00          |
 | 10   | WWE                  | 101.00          |
 
+
 ### 2. Which 3 channels have uploaded the most videos?
 
 | Rank | Channel Name    | Videos Uploaded |
@@ -532,7 +533,10 @@ For this analysis, we focused on the following questions to gather the necessary
 | 2    | Aaj Tak         | 369,577         |
 | 3    | ABS-CBN         | 223,626         |
 
+
+
 ### 3. Which 3 channels have the most views?
+
 
 | Rank | Channel Name | Total Views (B) |
 |------|--------------|-----------------|
@@ -540,29 +544,34 @@ For this analysis, we focused on the following questions to gather the necessary
 | 2    | Cocomelon    | 181.07          |
 | 3    | SET India    | 163.63          |
 
+
 ### 4. Which 3 channels have the highest average views per video?
 
-| Rank | Channel Name             | Average Views per Video (M) |
-|------|--------------------------|-----------------------------|
-| 1    | Cocomelon - Nursery Rhymes | 155.02                      |
-| 2    | MrBeast                  | 61.50                       |
-| 3    | T-Series                 | 12.18                       |
+| Channel Name | Averge Views per Video (M) |
+|--------------|-----------------|
+| Bad Bunny    | 223.64          |
+| Bruno Mars   | 210.29          |
+| Katy Perry   | 186.84          |
+
 
 ### 5. Which 3 channels have the highest views per subscriber ratio?
 
-| Rank | Channel Name             | Views per Subscriber        |
-|------|--------------------------|-----------------------------|
-| 1    | Cocomelon - Nursery Rhymes | 1.03K                       |
-| 2    | T-Series                 | 962.94                      |
-| 3    | MrBeast                  | 189.27                      |
+| Rank | Channel Name       | Views per Subscriber        |
+|------|--------------------|-----------------------------|
+| 1    | Ryan's World       | 1,555.41                    |
+| 2    | Sony SAB           | 1243.71                     |
+| 3    | Super Simple Songs | 1210.15                     |
+
+
 
 ### 6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
 
-| Rank | Channel Name    | Subscriber Engagement Rate (Subscribers per Video) |
-|------|-----------------|---------------------------------------------------|
-| 1    | MrBeast         | 324.94K                                           |
-| 2    | Cocomelon - Nursery Rhymes | 149.83K                                   |
-| 3    | T-Series        | 12.64K                                            |
+| Rank | Channel Name    | Subscriber Engagement Rate  |
+|------|-----------------|---------------------------- |
+| 1    | Billie Eilish   | 433,043.48                  |
+| 2    | Bruno Mars      | 379,000.00                  |
+| 3    | EminemMusic     | 370,807.45                  |
+
 
 ## Analysis of Key Metrics
 
