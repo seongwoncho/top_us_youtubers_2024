@@ -324,6 +324,7 @@ Here are the data quality tests conducted:
 
 
 ## Row count check
+### SQL query
 ```sql
 /*
 # Count the total number of records (or rows) are in the SQL view
@@ -337,8 +338,7 @@ FROM
 ```
 
 ### Output 
-![Row count check](assets/images/1_row_count_check.png)
-
+![Row count check](assets/images/1_row_count_check.png.png)
 
 
 ## Column count check
