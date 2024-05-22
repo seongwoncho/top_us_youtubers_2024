@@ -504,9 +504,6 @@ RETURN viewsPerSubscriber
 
 The purpose of this analysis is to determine the most profitable YouTube channel for advertising investment based on key metrics that indicate both reach and engagement. By analyzing various metrics, we aim to identify the channel that will maximize the exposure of advertisements to the largest and most engaged audience possible.
 
-## Introduction
-
-As an investment company looking to optimize advertising spend, it is crucial to select the right YouTube channel that offers the highest potential for ad visibility and audience engagement.
 
 ## Findings
 
