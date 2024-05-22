@@ -64,7 +64,7 @@ We need data on the top UK YouTubers in 2024 that includes their
 - Where is the data coming from? 
 The data is sourced from Kaggle (an Excel extract), [see here to find it.](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download)
 
-As Kaggle dataset does not have data for views and subscribers, I collect those data from YouTubeusing google API.
+As Kaggle dataset does not have data for views and subscribers, I collect those data from YouTube using google API.
 
 
 
@@ -421,7 +421,7 @@ HAVING
 
 ![GIF of Power BI Dashboard](assets/images/top_us_youtuber_2024_powerbi.gif)
 
-This shows the Top UK Youtubers in 2024 so far. 
+This shows the Top US Youtubers in 2024 so far. 
 
 
 ## DAX Measures
