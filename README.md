@@ -19,8 +19,7 @@
   - [Data Cleaning](#data-cleaning)
   - [Transform the Data](#transform-the-data)
   - [Create the SQL View](#create-the-sql-view)
-- [Testing](#testing)
-  - [Data Quality Tests](#data-quality-tests)
+- [Data quality testing](#data-quality-testing)
 - [Visualization](#visualization)
   - [Results](#results)
   - [DAX Measures](#dax-measures)
@@ -146,7 +145,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 9. Publish the data to GitHub Pages
 
 
-## Data collecting for TOP 100 US YouTubers in 2024
+## Collecting data for TOP 100 US YouTubers in 2024
 
 ```sql
 
@@ -317,11 +316,12 @@ WHERE
 
 
 
-# Testing(validation)
+# Data quality testing
 
 - What data quality and validation checks are you going to create?
 
 Here are the data quality tests conducted:
+
 
 ## Row count check
 ```sql
