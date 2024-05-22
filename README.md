@@ -16,7 +16,6 @@
   - [Tools](#tools)
 - [Development](#development)
   - [Pseudocode](#pseudocode)
-  - [Data Exploration](#data-exploration)
   - [Data Cleaning](#data-cleaning)
   - [Transform the Data](#transform-the-data)
   - [Create the SQL View](#create-the-sql-view)
@@ -27,12 +26,8 @@
   - [DAX Measures](#dax-measures)
 - [Analysis](#analysis)
   - [Findings](#findings)
-  - [Validation](#validation)
-  - [Discovery](#discovery)
-- [Recommendations](#recommendations)
-  - [Potential ROI](#potential-roi)
-  - [Potential Courses of Actions](#potential-courses-of-actions)
-- [Conclusion](#conclusion)
+  
+
 
 
 
@@ -73,6 +68,9 @@ The data is sourced from Kaggle (an Excel extract), [see here to find it.](https
 As Kaggle dataset does not have data for views and subscribers, I collect those data using google API.
 
 
+
+
+
 # Stages
 
 - Design
@@ -80,6 +78,8 @@ As Kaggle dataset does not have data for views and subscribers, I collect those 
 - Testing
 - Analysis 
  
+
+
 
 
 # Design 
@@ -315,6 +315,8 @@ WHERE
 
 
 
+
+
 # Testing(validation)
 
 - What data quality and validation checks are you going to create?
@@ -334,6 +336,7 @@ FROM
 
 ```
 
+### Output 
 ![Row count check](assets/images/1_row_count_check.png)
 
 
@@ -404,6 +407,10 @@ HAVING
 ```
 ### Output
 ![Duplicate count check](assets/images/4_duplicate_records_check.png)
+
+
+
+
 
 # Visualization 
 
@@ -485,6 +492,10 @@ VAR viewsPerSubscriber = DIVIDE(sumOfTotalViews, sumOfTotalSubscribers, BLANK())
 RETURN viewsPerSubscriber 
 
 ```
+
+
+
+
 
 
 # Analysis 
